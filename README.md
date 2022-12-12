@@ -1,6 +1,6 @@
 # calc-imc-eduardo-neto
 
-Desenvolvido por Eduardo G Neto e Diogo Boege Ramuski
+Desenvolvido por Eduardo G Neto, Diogo Boege Ramuski e Daniel Gelich
 
 ## Getting Started
 
