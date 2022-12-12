@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174430226592",
+    "project_id": "calculdadoraeduardoneto",
+    "storage_bucket": "calculdadoraeduardoneto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174430226592:android:6d13cc44c822529942a1c5",
+        "android_client_info": {
+          "package_name": "com.example.calculadoraEduardoNeto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174430226592-82mum52omeopht78clth3ogv4eif9rbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtOUeMj_34u91YiHxScjETgn5i8ryotS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174430226592-82mum52omeopht78clth3ogv4eif9rbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
